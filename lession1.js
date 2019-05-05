@@ -1,5 +1,5 @@
-a = 12;
-b = 23;
+var a = 12;
+var b = 23;
 console.log(a + b);
 console.log(a - b);
 console.log(a * b);
